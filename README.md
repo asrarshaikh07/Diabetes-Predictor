@@ -9,6 +9,17 @@ Backend Integration: RESTful APIs to handle user inputs, process data, and retur
 
 # Tech Stack:
 
-Frontend: HTML, CSS, JavaScript
+Frontend: HTML, CSS, JavaScript![image](https://github.com/user-attachments/assets/fdb6c254-5835-4c5d-8b85-60f6c1aa8a52)
+
 Backend: Python (Flask for REST API)
 Machine Learning: Random Forest Classifier (Scikit-learn)
+
+
+![image](https://github.com/user-attachments/assets/c78ba629-ee6a-4001-9515-30542eca212c)
+
+
+![image](https://github.com/user-attachments/assets/adfe2bc5-af33-4c6c-acbe-2021ce0adfec)
+
+
+
+
